@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple react app to fetch weather condition for a particular City.
+Used the Openweather API to access the temperature, humidity and condition for a city.
+Link: https://elegant-rosalind-d51765.netlify.app/
 
 ## Available Scripts
 
